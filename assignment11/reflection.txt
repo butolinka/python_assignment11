@@ -1,0 +1,14 @@
+Static vs. interactive visualizations:
+Static visualizations are like screenshots—they show data clearly but don’t let you explore it.
+Interactive ones let you click around, zoom in, and filter, which makes it easier to understand 
+and find patterns.
+
+Advantages of dashboards:
+Dashboards are super helpful for real-time data because everything updates live.
+You can see what’s happening right away and make fast decisions without digging through reports.
+
+
+Plotly and Dash in professional settings:
+Tools like Plotly and Dash make it easier to share data in a way people can actually use.
+Instead of just showing numbers, they let others interact with the data, which makes meetings
+and reports more engaging and clear.
