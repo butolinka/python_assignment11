@@ -8,7 +8,7 @@ df = px.data.gapminder()
 countries = df['country'].drop_duplicates().sort_values()
 
 app = Dash(__name__)
-#server = app.server
+server = app.server
 app.layout = html.Div([
     dcc.Dropdown(
         id="country-dropdown",
